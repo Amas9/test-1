@@ -2,7 +2,7 @@
 function na(params) {
     const obj = {
         home:true,
-        life:false
+        life:true,
     }
     console.log(obj)
 }

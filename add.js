@@ -1,5 +1,9 @@
 // js js
 function na(params) {
-    console.log(na)
+    const obj = {
+        home:true,
+        life:true
+    }
+    console.log(obj)
 }
 na()

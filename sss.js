@@ -4,3 +4,6 @@ const obj = {
 }
 obj['c'] = `cccc`
 console.log(obj)
+
+const array = [`one`,`two`,`three`]
+console.log(array)

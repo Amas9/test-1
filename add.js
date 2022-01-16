@@ -7,3 +7,5 @@ function na(params) {
     console.log(obj)
 }
 na()
+
+++
